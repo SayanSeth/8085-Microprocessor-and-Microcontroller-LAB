@@ -1,0 +1,6 @@
+MVI D,7A
+MVI C,6B
+MOV A,C
+ADD D
+MOV E,A
+RST 1
