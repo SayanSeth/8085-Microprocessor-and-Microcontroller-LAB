@@ -1,0 +1,5 @@
+STC
+CMC
+MVI A, 00
+DCR A
+RST 1

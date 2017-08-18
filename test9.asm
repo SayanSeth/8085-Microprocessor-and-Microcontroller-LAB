@@ -1,0 +1,5 @@
+MVI B,37
+MVI C,60
+MOV A,C
+SUB B
+RST 1

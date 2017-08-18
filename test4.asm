@@ -1,0 +1,5 @@
+STC
+CMC
+MVI A, FF
+ADI 01
+RST 1

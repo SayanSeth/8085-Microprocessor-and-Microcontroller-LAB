@@ -1,0 +1,5 @@
+STC
+CMC
+MVI A,00
+SUI 01
+RST 1

@@ -1,0 +1,5 @@
+MVI A, AD
+MVI C, B7
+ADD C
+ADI 35
+RST 1
