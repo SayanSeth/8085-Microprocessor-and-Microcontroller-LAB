@@ -1,0 +1,4 @@
+MVI H, 82
+MVI L, 50
+MVI M, 3A
+RST 1

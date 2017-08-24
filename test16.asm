@@ -1,0 +1,5 @@
+LXI H, 8221
+MVI M, AB
+MVI A, 10
+SUB M
+RST 1
