@@ -1,0 +1,3 @@
+LXI B,9FFF
+INX B
+RST 1

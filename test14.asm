@@ -1,0 +1,4 @@
+LXI H,8190
+MVI M,9F
+MOV B,M
+RST 1
