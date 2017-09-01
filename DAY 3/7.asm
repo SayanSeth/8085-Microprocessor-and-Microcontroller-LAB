@@ -1,0 +1,3 @@
+LXI D,8210
+LDAX D
+RST 1

@@ -1,0 +1,3 @@
+LXI H,0242
+DAD H
+RST 1

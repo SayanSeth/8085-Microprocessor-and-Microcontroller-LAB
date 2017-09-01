@@ -1,0 +1,3 @@
+MVI A,39
+XRA A
+RST 1
